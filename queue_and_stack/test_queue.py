@@ -1,4 +1,6 @@
 import unittest
+import sys
+sys.path.append('../queue_and_stack')
 from dll_queue import Queue
 
 
